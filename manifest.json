@@ -1,0 +1,11 @@
+{
+    "name": "Simple notes",
+    "version": "1.0.0",
+    "description": "Simply taking daily notes",
+    "manifest_version": 3,
+    "author": "Rezaul Hoque",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Simple Notes"
+    }
+}
